@@ -1,0 +1,5 @@
+{
+  "name": "pr-dashboard",
+  "displayName": "Jules PR Dashboard",
+  "description": "Live dashboard for monitoring Jules PR automation — repo health, merge stats, activity feed, and trigger status."
+}
